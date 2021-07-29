@@ -19,7 +19,7 @@ public class Project {
     }
 
     public void setProjectID(int projectID) {
-        projectID = projectID;
+
     }
 
     public String getProjectDescription() {
